@@ -1,8 +1,6 @@
 package Baekjoon;
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.StringTokenizer;
 
 public class P_11170 {
     public static void main(String[] args) throws IOException {
