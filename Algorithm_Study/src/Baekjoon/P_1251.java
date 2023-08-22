@@ -23,6 +23,7 @@ public class P_1251 {
                     StringBuffer sc=new StringBuffer(C);
                     String reverseC=sc.reverse().toString();
                     String res=reverseA+reverseB+reverseC;
+                    //String buffer String builder차이
                 if(flag==1){
                     fin=res;
                 }
